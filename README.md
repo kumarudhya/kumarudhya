@@ -4,7 +4,7 @@
 
 - 🔭 I have completed **MCA(Full Stack Development)**
 
-- 🌱 I’m currently learning **MERN Stack,React Native**
+- 🌱 I have good knowledge in  web development and mobile app development like **MERN Stack,React Native**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
